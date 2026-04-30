@@ -1,5 +1,7 @@
 # Excel VBA Sales Performance Dashboard
 
+출처 : https://youtube.com/watch?v=Z1r2pesXFwo&si=uO2kghLJ-yK1ciuL
+
 이 프로젝트는 Excel VBA를 사용하여 데이터 정리, 피벗 테이블 생성 및 시각적 대시보드 구축을 자동화하는 도구입니다. 복잡한 판매 데이터를 체계적으로 관리하고 한눈에 파악할 수 있는 시각적 보고서를 제공합니다.
 
 ## 🚀 주요 기능
